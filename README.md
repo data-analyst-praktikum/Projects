@@ -8,6 +8,7 @@ Jupyter Notebook Praktikum Projects
 * [Требования/Requirements](#chapter4)
 * [Установка/Installation](#chapter5)
 * [Список проектов/List of projects](#chapter6)
+* [Ключевые слова/Keywords](#chapter7)
 * [Обратная связь/Support](#chapterend)
 
 ## Введение/Introduction<a class="anchor" id="chapter1"></a>
@@ -52,6 +53,10 @@ Jupyter Notebook Praktikum Projects
 11. Сравнительный анализ поведения клиентов тарифных планов федерального оператора сотовой связи.
 12. Анализ рынка недвижимости в Санкт-Петербурге по данным сервиса Яндекс.Недвижимость.
 13. Анализ статистики о платёжеспособности клиентов кредитного отдела банка.
+### [К оглавлению](#contents)
+
+## Ключевые слова/Keywords<a class="anchor" id="chapter7"></a>
+
 ### [К оглавлению](#contents)
 
 ## Обратная связь/Support<a class="anchor" id="#chapterend"></a>
