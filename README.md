@@ -1,4 +1,4 @@
 # Projects
 Jupyter Notebook Praktikum Projects
 
-Test
+[spoiler]Test[/spoiler]
