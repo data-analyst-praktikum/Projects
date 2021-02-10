@@ -62,11 +62,3 @@ Jupyter Notebook Praktikum Projects
 ## Обратная связь/Support<a class="anchor" id="#chapterend"></a>
 data-analyst-praktikum@yandex.ru
 ### [К оглавлению](#contents)
-
-<details>
-  <summary>Test</summary>
-  
-  ```
-  Test
-  ```
-</details>
