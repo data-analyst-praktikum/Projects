@@ -1,4 +1,9 @@
 # Projects
 Jupyter Notebook Praktikum Projects
 
-[spoiler]Test[\spoiler]
+<details>
+  <summary>Test</summary>
+  ```
+  Test
+  ```
+</details>
