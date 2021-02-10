@@ -26,10 +26,10 @@ Jupyter Notebook Praktikum Projects
 ## Требования/Requirements<a class="anchor" id="chapter4"></a>
 Основные инструменты разработки:
 - язык программирования `Python3` и его библиотеки:
-	- аналитическая библиотекой `Pandas`;
-	- библиотеки для математических и научных расчётов `NumPy`, `math`, `scipy`;
-	- библиотеки для визуализации данных `Matplotlib`, `seaborn`, `plotly`;
-	- библиотека для машинного обучения `sklearn`;
+	- аналитическая библиотекой [`Pandas`](https://pandas.pydata.org/);
+	- библиотеки для выполнения научных и инженерных расчётов [`NumPy`](http://www.numpy.org/), [`math`](https://docs.python.org/3/library/math.html), [`SciPy`](https://www.scipy.org/);
+	- библиотеки для визуализации данных [`Matplotlib`](https://matplotlib.org/), [`seaborn`](https://seaborn.pydata.org/), [`plotly`](https://plotly.com/python/);
+	- библиотека машинного обучения [`sklearn`](https://www.sklearn.org/);
 	- вспомогательные библиотеки `datetime`, `display`, `warnings`;
 - среда программирования `Jupyter Notebook`;
 - язык запросов `SQL`.
