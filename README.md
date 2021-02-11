@@ -22,7 +22,7 @@ Data analyst educational program includes following topics: preprocessing data, 
 ## Условия использования/Terms of use<a class="anchor" id="chapter2"></a>
 Репозиторий **НЕ ВКЛЮЧАЕТ В СЕБЯ** датасеты и полные описания заданий согласно пункту 3.1 [Условий использования сервиса «Яндекс.Практикум»](https://yandex.ru/legal/praktikum_termsofuse/). Все проекты представлены исключительно в ознакомительных целях.
 
-Repository **DOES NOT INCLUDE** datasets and complete task descriptions according to paragraph 3.1 [Yandex.Praktikum Terms of use](https://yandex.ru/legal/praktikum_termsofuse/). Projects are presented strictly for informational purposes.
+Repository **DOES NOT INCLUDE** datasets and complete task descriptions according to paragraph 3.1 [Yandex.Praktikum Service Terms of use](https://yandex.ru/legal/praktikum_termsofuse/). Projects are presented strictly for informational purposes.
 
 ## В чём смысл?/What's the point?<a class="anchor" id="chapter3"></a>
 Проекты содержат полезные примеры кода, которых мне недоставало в процессе обучения. Особенно это касается визуализации и обработки данных.
