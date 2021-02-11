@@ -58,9 +58,12 @@ Jupyter Notebook Praktikum Projects
 ## Список проектов/List of projects<a class="anchor" id="chapter6"></a>
 1. Оптимизизация маркетинговых затрат согласно данным от Яндекс.Афиши.
 
-*Marketing costs optimization according to Yandex.Afisha data.*
+	*Marketing costs optimization according to Yandex.Afisha data.*
 
 2. Исследование воронки продаж и результатов A/A/B-эксперимента по изменению шрифтов мобильного приложения.
+
+	*Sales funnel and A/A/B-experiment research of mobile application fonts changing.*
+
 3. Исследование рынка заведений общепита в Москве.
 4. Анализ и сегментация клиентов регионального банка по количеству потребляемых продуктов.
 5. A/B тестирование изменений, связанных с внедрением улучшенной рекомендательной системы интернет-магазина.
