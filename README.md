@@ -40,29 +40,39 @@ Jupyter Notebook Praktikum Projects
 - среда программирования [`Jupyter Notebook`](https://jupyter.org/);
 - язык запросов (`SQL`).
 
-Main development tools:
-- programming language `Python3` and its libraries:
-	- [`Pandas`](https://pandas.pydata.org/) analytical library;
-	- libraries for mathematic and scientific computing [`NumPy`](http://www.numpy.org/), [`math`](https://docs.python.org/3/library/math.html), [`SciPy`](https://www.scipy.org/);
-	- data visualization libraries [`Matplotlib`](https://matplotlib.org/), [`seaborn`](https://seaborn.pydata.org/), [`plotly`](https://plotly.com/python/);
-	- machine learning library [`sklearn`](https://www.sklearn.org/);
-	- additional libraries [`datetime`](https://docs.python.org/3/library/datetime.html), [`display`](https://ipython.org/ipython-doc/3/api/generated/IPython.display.html), [`warnings`](https://docs.python.org/3/library/warnings.html);
-- development environment [`Jupyter Notebook`](https://jupyter.org/);
-- query language (`SQL`).
+*Main development tools:*
+*- programming language `Python3` and its libraries:*
+	*- [`Pandas`](https://pandas.pydata.org/) analytical library;*
+	*- libraries for mathematic and scientific computing [`NumPy`](http://www.numpy.org/), [`math`](https://docs.python.org/3/library/math.html), [`SciPy`](https://www.scipy.org/);*
+	*- data visualization libraries [`Matplotlib`](https://matplotlib.org/), [`seaborn`](https://seaborn.pydata.org/), [`plotly`](https://plotly.com/python/);*
+	*- machine learning library [`sklearn`](https://www.sklearn.org/);*
+	*- additional libraries [`datetime`](https://docs.python.org/3/library/datetime.html), [`display`](https://ipython.org/ipython-doc/3/api/generated/IPython.display.html), [`warnings`](https://docs.python.org/3/library/warnings.html);*
+*- development environment [`Jupyter Notebook`](https://jupyter.org/);*
+*- query language (`SQL`).*
 
 ## Установка/Installation<a class="anchor" id="chapter5"></a>
-Проекты выполнялись в онлайн-тренажёре Яндекс.Практикум. Для работы на локальном компьютере требуется установка [дистрибутива Anaconda3](https://www.anaconda.com/distribution/). Каждый проект представлен в трёх версиях: тетрадь `Jupyter Notebook`, сохранённая веб-страница и сохранённый pdf-файл. Внутри папки с проектом также располагается его описание.
+Проекты выполнялись в онлайн-тренажёре Яндекс.Практикум. Для работы на локальном компьютере требуется установка [дистрибутива Anaconda](https://www.anaconda.com/distribution/). Каждый проект представлен в трёх вариантах: тетрадь `Jupyter Notebook`, сохранённая веб-страница и сохранённый pdf-файл. Внутри папки с проектом также располагается его описание.
+
+*Projects were made on the Yandex.Praktikum online simulator. [Anaconda Installation](https://www.anaconda.com/distribution/) is necessary for using on a local machine. Each project is presented in three versions: Jupyter Notebook, webpage and pdf-file. Every project folder also has readme file.*
 
 ## Список проектов/List of projects<a class="anchor" id="chapter6"></a>
 1. Оптимизизация маркетинговых затрат согласно данным от Яндекс.Афиши.
+*Marketing costs optimization according to Yandex.Afisha data.*
 2. Исследование воронки продаж и результатов A/A/B-эксперимента по изменению шрифтов мобильного приложения.
+**
 3. Исследование рынка заведений общепита в Москве.
+**
 4. Анализ и сегментация клиентов регионального банка по количеству потребляемых продуктов.
+**
 5. A/B тестирование изменений, связанных с внедрением улучшенной рекомендательной системы интернет-магазина.
+**
 6. Выгрузка информации SQL-запросами из базы данных книжных издательств.
+**
 7. Анализ и прогнозирование оттока клиентов средствами машинного обучения.
+**
 8. Анализ изменения выручки интернет-магазина по результатам A/B-теста.
-9. Выгрузка информации SQL-запросами из базы данных авиаперевозок., анализ результатов в Python.
+**
+9. Выгрузка информации SQL-запросами из базы данных авиаперевозок, анализ результатов в Python.
 10. Анализ исторических данных о продажах видеоигр для планирования рекламных кампаний.
 11. Сравнительный анализ поведения клиентов тарифных планов федерального оператора сотовой связи.
 12. Анализ рынка недвижимости в Санкт-Петербурге по данным сервиса Яндекс.Недвижимость.
