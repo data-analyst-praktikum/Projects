@@ -109,6 +109,7 @@ Projects were made on the Yandex.Praktikum online simulator. [Anaconda Installat
 	Statistics analysis of the clients creditworthiness in the bank credit department.
 
 ## Обратная связь/Support<a class="anchor" id="#chapterend"></a>
+
 data-analyst-praktikum@yandex.ru
 
 ### [К оглавлению/Back to the Table of contents](#contents)
