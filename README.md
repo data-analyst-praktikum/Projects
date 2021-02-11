@@ -53,7 +53,7 @@ Main development tools:
 ## Установка/Installation<a class="anchor" id="chapter5"></a>
 Проекты выполнялись в онлайн-тренажёре Яндекс.Практикум. Для работы на локальном компьютере требуется установка [дистрибутива Anaconda](https://www.anaconda.com/distribution/). Каждый проект представлен в трёх вариантах: тетрадь `Jupyter Notebook`, сохранённая веб-страница и сохранённый pdf-файл. Внутри папки с проектом также располагается его описание.
 
-*Projects were made on the Yandex.Praktikum online simulator. [Anaconda Installation](https://www.anaconda.com/distribution/) is necessary for using on a local machine. Each project is presented in three versions: Jupyter Notebook, webpage and pdf-file. Every project folder also has readme file.*
+Projects were made on the Yandex.Praktikum online simulator. [Anaconda Installation](https://www.anaconda.com/distribution/) is necessary for using on a local machine. Each project is presented in three versions: Jupyter Notebook, webpage and pdf-file. Every project folder also has readme file.
 
 ## Список проектов/List of projects<a class="anchor" id="chapter6"></a>
 1. Оптимизизация маркетинговых затрат согласно данным от Яндекс.Афиши.
