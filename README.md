@@ -8,7 +8,7 @@ Jupyter Notebook Praktikum Projects
 * [Требования/Requirements](#chapter4)
 * [Установка/Installation](#chapter5)
 * [Список проектов/List of projects](#chapter6)
-* [Обратная связь/Support](#chapterend)
+* [Обратная связь/Support](#chapter7)
 
 ## Введение/Introduction<a class="anchor" id="chapter1"></a>
 Привет! Это репозиторий с учебными проектами по Анализу данных от Яндекс.Практикума.
@@ -108,7 +108,7 @@ Projects were made on the Yandex.Praktikum online simulator. [Anaconda Installat
 
 	Statistics analysis of the clients creditworthiness in the bank credit department.
 
-## Обратная связь/Support<a class="anchor" id="#chapterend"></a>
+## Обратная связь/Support<a class="anchor" id="#chapter7"></a>
 
 data-analyst-praktikum@yandex.ru
 
