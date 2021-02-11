@@ -8,20 +8,16 @@ Jupyter Notebook Praktikum Projects
 * [Требования/Requirements](#chapter4)
 * [Установка/Installation](#chapter5)
 * [Список проектов/List of projects](#chapter6)
-* [Ключевые слова/Keywords](#chapter7)
 * [Обратная связь/Support](#chapterend)
 
 ## Введение/Introduction<a class="anchor" id="chapter1"></a>
 Привет! Это репозиторий с учебными проектами по Анализу данных от Яндекс.Практикума.
-### [К оглавлению](#contents)
 
 ## Условия использования/Terms of use<a class="anchor" id="chapter2"></a>
 Репозиторий **НЕ ВКЛЮЧАЕТ В СЕБЯ** датасеты и полные описания заданий согласно пункту 3.1 [Условий использования сервиса «Яндекс.Практикум»](https://yandex.ru/legal/praktikum_termsofuse/). Все проекты представлены исключительно в ознакомительных целях.
-### [К оглавлению](#contents)
 
 ## В чём смысл?/What's the point?<a class="anchor" id="chapter3"></a>
 Проекты содержат полезные примеры кода, которых мне недоставало в конспектах. Особенно это касается визуализации и обработки данных.
-### [К оглавлению](#contents)
 
 ## Требования/Requirements<a class="anchor" id="chapter4"></a>
 Основные инструменты разработки:
@@ -33,11 +29,9 @@ Jupyter Notebook Praktikum Projects
 	- вспомогательные библиотеки `datetime`, `display`, `warnings`;
 - среда программирования `Jupyter Notebook`;
 - язык запросов `SQL`.
-### [К оглавлению](#contents)
 
 ## Установка/Installation<a class="anchor" id="chapter5"></a>
 Проекты выполнялись в онлайн-тренажёре Яндекс.Практикум. Для работы на локальном компьютере требуется установка [дистрибутива Anaconda3](https://www.anaconda.com/distribution/). Каждый проект представлен в трёх версиях: тетрадь `Jupyter Notebook`, сохранённая веб-страница и сохранённый pdf-файл. Внутри папки с проектом также располагается его описание.
-### [К оглавлению](#contents)
 
 ## Список проектов/List of projects<a class="anchor" id="chapter6"></a>
 1. Оптимизизация маркетинговых затрат согласно данным от Яндекс.Афиши.
@@ -53,11 +47,6 @@ Jupyter Notebook Praktikum Projects
 11. Сравнительный анализ поведения клиентов тарифных планов федерального оператора сотовой связи.
 12. Анализ рынка недвижимости в Санкт-Петербурге по данным сервиса Яндекс.Недвижимость.
 13. Анализ статистики о платёжеспособности клиентов кредитного отдела банка.
-### [К оглавлению](#contents)
-
-## Ключевые слова/Keywords<a class="anchor" id="chapter7"></a>
-
-### [К оглавлению](#contents)
 
 ## Обратная связь/Support<a class="anchor" id="#chapterend"></a>
 data-analyst-praktikum@yandex.ru
