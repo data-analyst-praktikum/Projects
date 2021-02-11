@@ -40,15 +40,15 @@ Jupyter Notebook Praktikum Projects
 - среда программирования [`Jupyter Notebook`](https://jupyter.org/);
 - язык запросов (`SQL`).
 
-*Main development tools:*
-*- programming language `Python3` and its libraries:*
-	*- [`Pandas`](https://pandas.pydata.org/) analytical library;*
-	*- libraries for mathematic and scientific computing [`NumPy`](http://www.numpy.org/), [`math`](https://docs.python.org/3/library/math.html), [`SciPy`](https://www.scipy.org/);*
-	*- data visualization libraries [`Matplotlib`](https://matplotlib.org/), [`seaborn`](https://seaborn.pydata.org/), [`plotly`](https://plotly.com/python/);*
-	*- machine learning library [`sklearn`](https://www.sklearn.org/);*
-	*- additional libraries [`datetime`](https://docs.python.org/3/library/datetime.html), [`display`](https://ipython.org/ipython-doc/3/api/generated/IPython.display.html), [`warnings`](https://docs.python.org/3/library/warnings.html);*
-*- development environment [`Jupyter Notebook`](https://jupyter.org/);*
-*- query language (`SQL`).*
+Main development tools:
+- programming language `Python3` and its libraries:
+	- [`Pandas`](https://pandas.pydata.org/) analytical library;
+	- libraries for mathematic and scientific computing [`NumPy`](http://www.numpy.org/), [`math`](https://docs.python.org/3/library/math.html), [`SciPy`](https://www.scipy.org/);
+	- data visualization libraries [`Matplotlib`](https://matplotlib.org/), [`seaborn`](https://seaborn.pydata.org/), [`plotly`](https://plotly.com/python/);
+	- machine learning library [`sklearn`](https://www.sklearn.org/);
+	- additional libraries [`datetime`](https://docs.python.org/3/library/datetime.html), [`display`](https://ipython.org/ipython-doc/3/api/generated/IPython.display.html), [`warnings`](https://docs.python.org/3/library/warnings.html);
+- development environment [`Jupyter Notebook`](https://jupyter.org/);
+- query language (`SQL`).
 
 ## Установка/Installation<a class="anchor" id="chapter5"></a>
 Проекты выполнялись в онлайн-тренажёре Яндекс.Практикум. Для работы на локальном компьютере требуется установка [дистрибутива Anaconda](https://www.anaconda.com/distribution/). Каждый проект представлен в трёх вариантах: тетрадь `Jupyter Notebook`, сохранённая веб-страница и сохранённый pdf-файл. Внутри папки с проектом также располагается его описание.
