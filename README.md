@@ -15,19 +15,19 @@ Jupyter Notebook Praktikum Projects
 
 Учебная программа анализа данных включала в себя следующие вопросы: предварительная обработка данных, исследовательский анализ данных, статистический анализ данных, сбор и хранение данных (SQL), анализ бизнес-показателей (метрики и воронки, когортный анализ, unit-экономика), A/B-тестирование, визуализация данных, автоматизация (скрипты, пайплайны и дашборды), основы машинного обучения.
 
-*Hi there! This is repository with data analyst educational projects from Yandex.Praktikum.*
+Hi there! This is repository with data analyst educational projects from Yandex.Praktikum.
 
-*Data analyst educational program includes following topics: preprocessing data, exploratory data analysis (EDA), statistical data analysis (SDA), data collection and storage (SQL), business analytics (metrics and funnels, cohort analysis, unit economics), A/B-testing, data visualization, automatization (scripts, pipelines, dashboards), machine learning basics.*
+Data analyst educational program includes following topics: preprocessing data, exploratory data analysis (EDA), statistical data analysis (SDA), data collection and storage (SQL), business analytics (metrics and funnels, cohort analysis, unit economics), A/B-testing, data visualization, automatization (scripts, pipelines, dashboards), machine learning basics.
 
 ## Условия использования/Terms of use<a class="anchor" id="chapter2"></a>
 Репозиторий **НЕ ВКЛЮЧАЕТ В СЕБЯ** датасеты и полные описания заданий согласно пункту 3.1 [Условий использования сервиса «Яндекс.Практикум»](https://yandex.ru/legal/praktikum_termsofuse/). Все проекты представлены исключительно в ознакомительных целях.
 
-*Repository **DOES NOT INCLUDE** datasets and complete task descriptions according to paragraph 3.1 [Yandex.Praktikum Terms of use](https://yandex.ru/legal/praktikum_termsofuse/). Projects are presented strictly for informational purposes.*
+Repository **DOES NOT INCLUDE** datasets and complete task descriptions according to paragraph 3.1 [Yandex.Praktikum Terms of use](https://yandex.ru/legal/praktikum_termsofuse/). Projects are presented strictly for informational purposes.
 
 ## В чём смысл?/What's the point?<a class="anchor" id="chapter3"></a>
 Проекты содержат полезные примеры кода, которых мне недоставало в процессе обучения. Особенно это касается визуализации и обработки данных.
 
-*Projects contain useful code tips, i missed during the education. It concerns especially data processing and visualization.*
+Projects contain useful code tips, i missed during the education. It concerns especially data processing and visualization.
 
 ## Требования/Requirements<a class="anchor" id="chapter4"></a>
 Основные инструменты разработки:
@@ -58,55 +58,55 @@ Main development tools:
 ## Список проектов/List of projects<a class="anchor" id="chapter6"></a>
 1. Оптимизизация маркетинговых затрат согласно данным от Яндекс.Афиши.
 
-	*Marketing costs optimization according to Yandex.Afisha data.*
+	Marketing costs optimization according to Yandex.Afisha data.
 
 2. Исследование воронки продаж и результатов A/A/B-эксперимента по изменению шрифтов мобильного приложения.
 
-	*Sales funnel and A/A/B-experiment research of mobile application fonts changing.*
+	Sales funnel and A/A/B-experiment research of mobile application fonts changing.
 
 3. Исследование рынка заведений общепита в Москве.
 
-	*Moscow catering market research.*
+	Moscow catering market research.
 
 4. Анализ и сегментация клиентов регионального банка по количеству потребляемых продуктов.
 
-	*Analysis and segmentation regional bank clients according to consuming products.*
+	Analysis and segmentation regional bank clients according to consuming products.
 
 5. A/B тестирование изменений, связанных с внедрением улучшенной рекомендательной системы интернет-магазина.
 
-	*A/B testing of changes related to the addition of the improved internet store recommendation system.*
+	A/B testing of changes related to the addition of the improved internet store recommendation system.
 
 6. Выгрузка информации SQL-запросами из базы данных книжных издательств.
 
-	*Retrieving data with the SQL-queries from the book publishers database.*
+	Retrieving data with the SQL-queries from the book publishers database.
 
 7. Анализ и прогнозирование оттока клиентов средствами машинного обучения.
 
-	*Analysis and prediction of customers churn with the machine learning.*
+	Analysis and prediction of customers churn with the machine learning.
 
 8. Анализ изменения выручки интернет-магазина по результатам A/B-теста.
 
-	*Analysis of the internet store income change according to A/B test result.*
+	Analysis of the internet store income change according to A/B test result.
 
 9. Выгрузка информации SQL-запросами из базы данных авиаперевозок, анализ результатов в Python.
 
-	*Retrieving data with the SQL-queries from the air transportation database, results analysis in Python.*
+	Retrieving data with the SQL-queries from the air transportation database, results analysis in Python.
 
 10. Анализ исторических данных о продажах видеоигр для планирования рекламных кампаний.
 
-	*Historical data analysis of the games sales for the advertising campaigns planning.*
+	Historical data analysis of the games sales for the advertising campaigns planning.
 
 11. Сравнительный анализ поведения клиентов тарифных планов федерального оператора сотовой связи.
 
-	*Clients behavior сomparative analysis of federal mobile operator tariff plans.*
+	Clients behavior сomparative analysis of federal mobile operator tariff plans.
 
 12. Анализ рынка недвижимости в Санкт-Петербурге по данным сервиса Яндекс.Недвижимость.
 
-	*St. Petersburg real estate market analysis according to Yandex.Realty service data.*
+	St. Petersburg real estate market analysis according to Yandex.Realty service data.
 
 13. Анализ статистики о платёжеспособности клиентов кредитного отдела банка.
 
-	*Statistics analysis of the clients creditworthiness in the bank credit department.*
+	Statistics analysis of the clients creditworthiness in the bank credit department.
 
 ## Обратная связь/Support<a class="anchor" id="#chapterend"></a>
 data-analyst-praktikum@yandex.ru
