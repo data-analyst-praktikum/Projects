@@ -70,6 +70,7 @@ Jupyter Notebook Praktikum Projects
 12. Анализ рынка недвижимости в Санкт-Петербурге по данным сервиса Яндекс.Недвижимость.
 13. Анализ статистики о платёжеспособности клиентов кредитного отдела банка.
 
+
 1. Marketing costs optimization according to Yandex.Afisha data.
 2. Sales funnel and A/A/B-experiment research of mobile application fonts changing.
 3. Moscow catering market research.
