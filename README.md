@@ -70,7 +70,7 @@ Projects were made on the Yandex.Praktikum online simulator. [Anaconda Installat
 
 4. Анализ и сегментация клиентов регионального банка по количеству потребляемых продуктов.
 
-	Analysis and segmentation regional bank clients according to consuming products.
+	Analysis and segmentation of regional bank clients according to consuming products.
 
 5. A/B тестирование изменений, связанных с внедрением улучшенной рекомендательной системы интернет-магазина.
 
