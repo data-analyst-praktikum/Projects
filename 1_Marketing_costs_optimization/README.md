@@ -46,4 +46,22 @@ We'll study:
   Conclusions and recommendations: marketing sources comparison, conclusions about product, marketing and eCommerce metrics, determination of the most promising client cohorts.
 
 ## Используемые инструменты/Features covered
-
+- Преобразование данных при помощи библиотеки `Pandas`.
+  
+  Data conversion by the use of `Pandas` library.
+  
+- Агрегирование данных при помощи `groupby()` и `pivot_table'.
+  
+  Data aggregation by the use of `groupby()` and `pivot_table'.
+  
+- Визуализация данных: графики, гистограммы, круговые диаграммы, тепловые карты при помощи библиотек `Matplotlib` и `seaborn`.
+  
+  Data visualization by the use of `Matplotlib` and `seaborn` libraries.
+  
+- Выполнение математических расчётов при помощие библиотеки `NumPy`.
+  
+  Mathematic computing by the use of `NumPy` library.
+  
+- Создание функций.
+  
+  Creation of functions.
