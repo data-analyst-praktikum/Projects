@@ -28,12 +28,15 @@ We'll study:
 - Предварительная обработка данных: преобразование форматов столбцов, замена названий, поиск дубликатов.
 - Расчёт продуктовых метрик: количество посетителей в день DAU (daily active users), неделю WAU (weekly active users), месяц MAU (monthly active users), средняя частота посещений, продолжительность типичной пользовательской сессии, коэффициента удержания (Retention Rate).
 - Расчёт метрик электронной коммерции: среднее время с момента первого посещения сайта до совершения покупки, среднее количество покупок на одного покупателя за период, средний чек, LTV (lifetime value).
-- Расчёт маркетинговых метрик: общую сумму расходов на маркетинг и по источникам, средний CAC (customer acquisition cost) на одного покупателя для всего проекта и для каждого источника трафика, ROMI (return on marketing investments) по когортам в разрезе источников.
-- Выводы и рекомендации: сравнение рекламных источников, маркетинговых, продуктовых и метрик электронной коммерции, определение самых перспективных когорт клиентов.
+- Расчёт маркетинговых метрик: общая сумма расходов на маркетинг и по источникам, средний CAC (customer acquisition cost) на одного покупателя для всего проекта и для каждого источника трафика, ROMI (return on marketing investments) по когортам в разрезе источников.
+- Выводы и рекомендации: сравнение рекламных источников, выводы о маркетинговых, продуктовых и метрик электронной коммерции, определение самых перспективных когорт клиентов.
+
 
 - Preprocessing data: column format conversion, change of headlines, duplicates search.
 - Product metrics calculation: visitors number per day DAU (daily active users), per week WAU (weekly active users), per month MAU (monthly active users), average visits frequency, average session length, retention rate.
+- eCommerce metrics calculation: average time from the first visiting to first order, average per user for the period, average revenue, 
+- Marketing metrics calculation: 
+- Conclusions and recommendations: marketing sources comparison, conclusions about product, marketing and eCommerce metrics, determination of the most promising client cohorts.
 
-Используемые приёмы/Features covered
-Применяемые инструменты:
+## Используемые инструменты/Features covered
 
