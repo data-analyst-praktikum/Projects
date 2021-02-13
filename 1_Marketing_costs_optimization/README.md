@@ -56,7 +56,7 @@ We'll study:
   
 - Визуализация данных: графики, гистограммы, круговые диаграммы, тепловые карты при помощи библиотек `Matplotlib` и `seaborn`.
   
-  Data visualization by the use of `Matplotlib` and `seaborn` libraries.
+  Data visualization: plotting, histograms, pie charts, heatmaps by the use of `Matplotlib` and `seaborn` libraries.
   
 - Выполнение математических расчётов при помощие библиотеки `NumPy`.
   
