@@ -35,11 +35,11 @@ We'll study:
   
 - Расчёт метрик электронной коммерции: среднее время с момента первого посещения сайта до совершения покупки, среднее количество покупок на одного покупателя за период, средний чек, LTV (lifetime value).
 
-  eCommerce metrics calculation: average time from the first visiting to first order, average per user for the period, average revenue, 
+  eCommerce metrics calculation: average time from the first visiting to the first order, average orders number per user for the period, average revenue, LTV (lifetime value).
   
 - Расчёт маркетинговых метрик: общая сумма расходов на маркетинг и по источникам, средний CAC (customer acquisition cost) на одного покупателя для всего проекта и для каждого источника трафика, ROMI (return on marketing investments) по когортам в разрезе источников.
 
-  Marketing metrics calculation: 
+  Marketing metrics calculation: summary marketing costs and per sources, average CAC (customer acquisition cost) per user for the whole project and for each traffic source, ROMI (return on marketing investments) per cohorts in the context of sources.
   
 - Выводы и рекомендации: сравнение рекламных источников, выводы о маркетинговых, продуктовых и метрик электронной коммерции, определение самых перспективных когорт клиентов.
 
