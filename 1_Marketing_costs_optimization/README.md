@@ -52,7 +52,7 @@ We'll study:
   
 - Агрегирование данных при помощи `groupby()` и `pivot_table'.
   
-  Data aggregation by the use of `groupby()` and `pivot_table'.
+  Data aggregation by the use of `groupby()` and `pivot_table`.
   
 - Визуализация данных: графики, гистограммы, круговые диаграммы, тепловые карты при помощи библиотек `Matplotlib` и `seaborn`.
   
