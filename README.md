@@ -88,9 +88,9 @@ Projects were made on the Yandex.Praktikum online simulator. [Anaconda Installat
 
 	Analysis of the internet store income change according to A/B test result.
 
-9. Выгрузка информации SQL-запросами из базы данных авиаперевозок, анализ результатов в Python.
+9. Анализ информации в Python из базы данных авиаперевозок.
 
-	Retrieving data with the SQL-queries from the air transportation database, results analysis in Python.
+	Python analysis of the data from the air transportation database.
 
 10. Анализ исторических данных о продажах видеоигр для планирования рекламных кампаний.
 
