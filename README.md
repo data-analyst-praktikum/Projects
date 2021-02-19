@@ -26,28 +26,23 @@ Projects contain useful code tips, i missed during the education. It concerns es
 № | Project name/Название проекта | Описание/Description
 | --- | --- | ---
 1 | [Marketing costs optimization according to Yandex.Afisha data.](https://github.com/data-analyst-praktikum/Projects/tree/main/1_Marketing_costs_optimization) | Оптимизизация маркетинговых затрат согласно логу сервера с данными о посещениях сайта Яндекс.Афиши с июня 2017 по конец мая 2018 года, выгрузкой всех заказов за этот период и статистикой рекламных расходов./Marketing costs optimization according to server log data about Yandex.Afisha visits during june 2017 to the end of may 2019, all orders retrieved for this period and marketing costs statistics.
-2 | [Sales funnel and A/A/B-experiment research of mobile application fonts changing.](https://github.com/data-analyst-praktikum/Projects/tree/main/2_Sales_funnel_and_AAB-experiment_research) | Изучение воронки продаж и пользовательского поведения. Исследование результатов A/A/B-эксперимента./
-3 | [Moscow catering market research.](https://github.com/data-analyst-praktikum/Projects/tree/main/3_Catering_market_research)| -
+2 | [Sales funnel and A/A/B-experiment research of mobile application fonts changing.](https://github.com/data-analyst-praktikum/Projects/tree/main/2_Sales_funnel_and_AAB-experiment_research) | Изучение воронки продаж и пользовательского поведения. Исследование результатов A/A/B-эксперимента./Analysis of the sales funnel and users behavior. Research of the AAB-experiment results.
+3 | [Moscow catering market research.](https://github.com/data-analyst-praktikum/Projects/tree/main/3_Catering_market_research) | Исследование рынка на основе открытых данных о заведениях общественного питания в Москве, составление рекомендаций и подготовка презентации./
+4 | [Analysis and segmentation of regional bank clients according to consuming products.](https://github.com/data-analyst-praktikum/Projects/tree/main/4_Bank_clients_analysis_and_segmentation) | Сегментация пользователей на основе данных о количестве потребляемых продуктов. Формулировка и проверка статистических гипотез различия их дохода.
+5 | [A/B testing of changes related to the addition of the improved internet store recommendation system.](https://github.com/data-analyst-praktikum/Projects/tree/main/5_AB_testing_of_recommendation_system_changes) | Оценка корректности проведения и анализ результатов A/B-теста, связанных с внедрением улучшенной рекомендательной системы.
+6 | [Retrieving data with the SQL-queries from the book publishers database.](https://github.com/data-analyst-praktikum/Projects/tree/main/6_SQL-queries_from_the_book_publishers_database) | Составление запросов о книгах, издательствах, авторах, а также пользовательских обзорах книг.
+7 | [Analysis and prediction of customers churn with the machine learning.](https://github.com/data-analyst-praktikum/Projects/tree/main/7_Analysis_and_prediction_of_customers_churn_with_the_machine_learning) | Прогнозирование вероятности оттока клиентов фитнес-центра, анализ признаков оттока, формирование типичных портретов клиентов, выводы и рекомендации.
+8 | [Analysis of the internet store income change according to A/B test result.](https://github.com/data-analyst-praktikum/Projects/tree/main/8_AB_test_of_the_internet_store_income_change)| -
 
-4. [Analysis and segmentation of regional bank clients according to consuming products.](https://github.com/data-analyst-praktikum/Projects/tree/main/4_Bank_clients_analysis_and_segmentation)| -
+9 | [Python analysis of the data from the air transportation database.](https://github.com/data-analyst-praktikum/Projects/tree/main/9_SQL-queries_from_the_air_transportation_database_and_analysis_in_Python)| -
 
-5. [A/B testing of changes related to the addition of the improved internet store recommendation system.](https://github.com/data-analyst-praktikum/Projects/tree/main/5_AB_testing_of_recommendation_system_changes)| -
+10 | [Historical data analysis of the games sales for the advertising campaigns planning.](https://github.com/data-analyst-praktikum/Projects/tree/main/A_Historical_data_analysis_of_the_games_sales)| -
 
-6. [Retrieving data with the SQL-queries from the book publishers database.](https://github.com/data-analyst-praktikum/Projects/tree/main/6_SQL-queries_from_the_book_publishers_database)| -
+11 | [Clients behavior сomparative analysis of federal mobile operator tariff plans.](https://github.com/data-analyst-praktikum/Projects/tree/main/B_Clients_behavior_%D1%81omparative_analysis_of_tariff_plans)| -
 
-7. [Analysis and prediction of customers churn with the machine learning.](https://github.com/data-analyst-praktikum/Projects/tree/main/7_Analysis_and_prediction_of_customers_churn_with_the_machine_learning)| -
+12 | [St. Petersburg real estate market analysis according to Yandex.Realty service data.](https://github.com/data-analyst-praktikum/Projects/tree/main/C_St._Petersburg_real_estate_market_analysis)| -
 
-8. [Analysis of the internet store income change according to A/B test result.](https://github.com/data-analyst-praktikum/Projects/tree/main/8_AB_test_of_the_internet_store_income_change)| -
-
-9. [Python analysis of the data from the air transportation database.](https://github.com/data-analyst-praktikum/Projects/tree/main/9_SQL-queries_from_the_air_transportation_database_and_analysis_in_Python)| -
-
-10. [Historical data analysis of the games sales for the advertising campaigns planning.](https://github.com/data-analyst-praktikum/Projects/tree/main/A_Historical_data_analysis_of_the_games_sales)| -
-
-11. [Clients behavior сomparative analysis of federal mobile operator tariff plans.](https://github.com/data-analyst-praktikum/Projects/tree/main/B_Clients_behavior_%D1%81omparative_analysis_of_tariff_plans)| -
-
-12. [St. Petersburg real estate market analysis according to Yandex.Realty service data.](https://github.com/data-analyst-praktikum/Projects/tree/main/C_St._Petersburg_real_estate_market_analysis)| -
-
-13. [Statistics analysis of the clients creditworthiness in the bank credit department.](https://github.com/data-analyst-praktikum/Projects/tree/main/D_Statistics_analysis_of_the_clients_creditworthiness)| -
+13 | [Statistics analysis of the clients creditworthiness in the bank credit department.](https://github.com/data-analyst-praktikum/Projects/tree/main/D_Statistics_analysis_of_the_clients_creditworthiness)| -
 
 ## Requirements<a class="anchor" id="chapter5"></a>
 
