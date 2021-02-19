@@ -26,9 +26,8 @@ Projects contain useful code tips, i missed during the education. It concerns es
 № | Project name/Название проекта | Описание/Description
 | --- | --- | ---
 1 | [Marketing costs optimization according to Yandex.Afisha data.](https://github.com/data-analyst-praktikum/Projects/tree/main/1_Marketing_costs_optimization) | Оптимизизация маркетинговых затрат согласно логу сервера с данными о посещениях сайта Яндекс.Афиши с июня 2017 по конец мая 2018 года, выгрузкой всех заказов за этот период и статистикой рекламных расходов./Marketing costs optimization according to server log data about Yandex.Afisha visits during june 2017 to the end of may 2019, all orders retrieved for this period and marketing costs statistics.
-2 | [Sales funnel and A/A/B-experiment research of mobile application fonts changing.](https://github.com/data-analyst-praktikum/Projects/tree/main/2_Sales_funnel_and_AAB-experiment_research) | Исследование воронки продаж и пользовательского поведения. Исследование результатов A/A/B-эксперимента./
-
-3. [Moscow catering market research.](https://github.com/data-analyst-praktikum/Projects/tree/main/3_Catering_market_research)| -
+2 | [Sales funnel and A/A/B-experiment research of mobile application fonts changing.](https://github.com/data-analyst-praktikum/Projects/tree/main/2_Sales_funnel_and_AAB-experiment_research) | Изучение воронки продаж и пользовательского поведения. Исследование результатов A/A/B-эксперимента./
+3 | [Moscow catering market research.](https://github.com/data-analyst-praktikum/Projects/tree/main/3_Catering_market_research)| -
 
 4. [Analysis and segmentation of regional bank clients according to consuming products.](https://github.com/data-analyst-praktikum/Projects/tree/main/4_Bank_clients_analysis_and_segmentation)| -
 
