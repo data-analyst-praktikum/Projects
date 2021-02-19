@@ -5,9 +5,9 @@ Jupyter Notebook Praktikum Projects
 * [Введение/Introduction](#chapter1)
 * [Условия использования/Terms of use](#chapter2)
 * [В чём смысл?/What's the point?](#chapter3)
-* [Требования/Requirements](#chapter4)
-* [Установка/Installation](#chapter5)
-* [Список проектов/List of projects](#chapter6)
+* [Список проектов/List of projects](#chapter4)
+* [Требования/Requirements](#chapter5)
+* [Установка/Installation](#chapter6)
 * [Обратная связь/Support](#chapter7)
 
 ## Введение/Introduction<a class="anchor" id="chapter1"></a>
@@ -29,7 +29,7 @@ Repository **DOES NOT INCLUDE** datasets and complete task descriptions accordin
 
 Projects contain useful code tips, i missed during the education. It concerns especially data processing and visualization.
 
-## Список проектов/List of projects<a class="anchor" id="chapter6"></a>
+## Список проектов/List of projects<a class="anchor" id="chapter4"></a>
 1. Оптимизизация маркетинговых затрат согласно данным от Яндекс.Афиши.
 
 	Marketing costs optimization according to Yandex.Afisha data.
@@ -82,7 +82,7 @@ Projects contain useful code tips, i missed during the education. It concerns es
 
 	Statistics analysis of the clients creditworthiness in the bank credit department.
 
-## Требования/Requirements<a class="anchor" id="chapter4"></a>
+## Требования/Requirements<a class="anchor" id="chapter5"></a>
 Основные инструменты разработки:
 - язык программирования `Python3` и его библиотеки:
 	- аналитическая библиотекой [`Pandas`](https://pandas.pydata.org/);
@@ -103,7 +103,7 @@ Main development tools:
 - development environment [`Jupyter Notebook`](https://jupyter.org/);
 - query language (`SQL`).
 
-## Установка/Installation<a class="anchor" id="chapter5"></a>
+## Установка/Installation<a class="anchor" id="chapter6"></a>
 Проекты выполнялись в онлайн-тренажёре Яндекс.Практикум. Для работы на локальном компьютере требуется установка [дистрибутива Anaconda](https://www.anaconda.com/distribution/). Каждый проект представлен в трёх вариантах: тетрадь `Jupyter Notebook`, сохранённая веб-страница и сохранённый pdf-файл. Внутри папки с проектом также располагается его описание.
 
 Projects were made on the Yandex.Praktikum online simulator. [Anaconda Installation](https://www.anaconda.com/distribution/) is necessary for using on a local machine. Each project is presented in three versions: Jupyter Notebook, webpage and pdf-file. Every project folder also has readme file.
