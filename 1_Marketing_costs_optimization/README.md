@@ -35,3 +35,6 @@ To study:
 - Библиотека `NumPy` для выполнения математических расчётов.
   
   Mathematic computing by the use of `NumPy` library.
+
+## Статус проекта/Project status
+Завершён/Completed
