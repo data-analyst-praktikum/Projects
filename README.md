@@ -30,55 +30,55 @@ Repository **DOES NOT INCLUDE** datasets and complete task descriptions accordin
 Projects contain useful code tips, i missed during the education. It concerns especially data processing and visualization.
 
 ## Список проектов/List of projects<a class="anchor" id="chapter4"></a>
-1. Оптимизизация маркетинговых затрат согласно данным от Яндекс.Афиши.
+1. [Оптимизизация маркетинговых затрат согласно данным от Яндекс.Афиши.](https://github.com/data-analyst-praktikum/Projects/tree/main/1_Marketing_costs_optimization)
 
 	Marketing costs optimization according to Yandex.Afisha data.
 
-2. Исследование воронки продаж и результатов A/A/B-эксперимента по изменению шрифтов мобильного приложения.
+2. [Исследование воронки продаж и результатов A/A/B-эксперимента по изменению шрифтов мобильного приложения.](https://github.com/data-analyst-praktikum/Projects/tree/main/2_Sales_funnel_and_AAB-experiment_research)
 
 	Sales funnel and A/A/B-experiment research of mobile application fonts changing.
 
-3. Исследование рынка заведений общепита в Москве.
+3. [Исследование рынка заведений общепита в Москве.](https://github.com/data-analyst-praktikum/Projects/tree/main/3_Catering_market_research)
 
 	Moscow catering market research.
 
-4. Анализ и сегментация клиентов регионального банка по количеству потребляемых продуктов.
+4. [Анализ и сегментация клиентов регионального банка по количеству потребляемых продуктов.](https://github.com/data-analyst-praktikum/Projects/tree/main/4_Bank_clients_analysis_and_segmentation)
 
 	Analysis and segmentation of regional bank clients according to consuming products.
 
-5. A/B тестирование изменений, связанных с внедрением улучшенной рекомендательной системы интернет-магазина.
+5. [A/B тестирование изменений, связанных с внедрением улучшенной рекомендательной системы интернет-магазина.](https://github.com/data-analyst-praktikum/Projects/tree/main/5_AB_testing_of_recommendation_system_changes)
 
 	A/B testing of changes related to the addition of the improved internet store recommendation system.
 
-6. Выгрузка информации SQL-запросами из базы данных книжных издательств.
+6. [Выгрузка информации SQL-запросами из базы данных книжных издательств.](https://github.com/data-analyst-praktikum/Projects/tree/main/6_SQL-queries_from_the_book_publishers_database)
 
 	Retrieving data with the SQL-queries from the book publishers database.
 
-7. Анализ и прогнозирование оттока клиентов средствами машинного обучения.
+7. [Анализ и прогнозирование оттока клиентов средствами машинного обучения.](https://github.com/data-analyst-praktikum/Projects/tree/main/7_Analysis_and_prediction_of_customers_churn_with_the_machine_learning)
 
 	Analysis and prediction of customers churn with the machine learning.
 
-8. Анализ изменения выручки интернет-магазина по результатам A/B-теста.
+8. [Анализ изменения выручки интернет-магазина по результатам A/B-теста.](https://github.com/data-analyst-praktikum/Projects/tree/main/8_AB_test_of_the_internet_store_income_change)
 
 	Analysis of the internet store income change according to A/B test result.
 
-9. Анализ информации в Python из базы данных авиаперевозок.
+9. [Анализ информации в Python из базы данных авиаперевозок.](https://github.com/data-analyst-praktikum/Projects/tree/main/9_SQL-queries_from_the_air_transportation_database_and_analysis_in_Python)
 
 	Python analysis of the data from the air transportation database.
 
-10. Анализ исторических данных о продажах видеоигр для планирования рекламных кампаний.
+10. [Анализ исторических данных о продажах видеоигр для планирования рекламных кампаний.](https://github.com/data-analyst-praktikum/Projects/tree/main/A_Historical_data_analysis_of_the_games_sales)
 
 	Historical data analysis of the games sales for the advertising campaigns planning.
 
-11. Сравнительный анализ поведения клиентов тарифных планов федерального оператора сотовой связи.
+11. [Сравнительный анализ поведения клиентов тарифных планов федерального оператора сотовой связи.](https://github.com/data-analyst-praktikum/Projects/tree/main/B_Clients_behavior_%D1%81omparative_analysis_of_tariff_plans)
 
 	Clients behavior сomparative analysis of federal mobile operator tariff plans.
 
-12. Анализ рынка недвижимости в Санкт-Петербурге по данным сервиса Яндекс.Недвижимость.
+12. [Анализ рынка недвижимости в Санкт-Петербурге по данным сервиса Яндекс.Недвижимость.](https://github.com/data-analyst-praktikum/Projects/tree/main/C_St._Petersburg_real_estate_market_analysis)
 
 	St. Petersburg real estate market analysis according to Yandex.Realty service data.
 
-13. Анализ статистики о платёжеспособности клиентов кредитного отдела банка.
+13. [Анализ статистики о платёжеспособности клиентов кредитного отдела банка.](https://github.com/data-analyst-praktikum/Projects/tree/main/D_Statistics_analysis_of_the_clients_creditworthiness)
 
 	Statistics analysis of the clients creditworthiness in the bank credit department.
 
