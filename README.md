@@ -25,7 +25,7 @@ Projects contain useful code tips, i missed during the education. It concerns es
 ## List of projects<a class="anchor" id="chapter4"></a>
 Project name/Название проекта | Описание/Description
 --- | ---
-[Marketing costs optimization according to Yandex.Afisha data.](https://github.com/data-analyst-praktikum/Projects/tree/main/1_Marketing_costs_optimization)| Description
+[Marketing costs optimization according to Yandex.Afisha data.](https://github.com/data-analyst-praktikum/Projects/tree/main/1_Marketing_costs_optimization) | Оптимизизация маркетинговых затрат согласно логу сервера с данными о посещениях сайта Яндекс.Афиши с июня 2017 по конец мая 2018 года, выгрузкой всех заказов за этот период и статистикой рекламных расходов.
 
 2. [Sales funnel and A/A/B-experiment research of mobile application fonts changing.](https://github.com/data-analyst-praktikum/Projects/tree/main/2_Sales_funnel_and_AAB-experiment_research)| -
 
