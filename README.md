@@ -57,11 +57,8 @@ Projects were made on the Yandex.Praktikum online simulator. [Anaconda Installat
 
 ## Support<a class="anchor" id="#chapter7"></a>
 
+
 data-analyst-praktikum@yandex.ru
 
+
 ### [Back to the Table of contents](#contents)
-
-
-
-
-______
