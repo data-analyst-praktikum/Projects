@@ -1,7 +1,7 @@
 # Projects
 Jupyter Notebook Praktikum Projects
 
-### Table of contents<a class="anchor" id="contents"></a>
+## Table of contents<a class="anchor" id="contents"></a>
 * [Introduction](#chapter1)
 * [Terms of use](#chapter2)
 * [What's the point?](#chapter3)
