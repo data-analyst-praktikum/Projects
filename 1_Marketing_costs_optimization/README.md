@@ -17,7 +17,7 @@ To study:
   
 - `Matplotlib` and `seaborn` libraries for the data visualization: plotting, histograms, pie charts, heatmaps.
   
-- Mathematic computing by the use of `NumPy` library.
+- `NumPy` library for the mathematic computing.
 
 ## Project status
 Completed.
