@@ -53,7 +53,7 @@ Main development tools:
 
 ## Installation<a class="anchor" id="chapter6"></a>
 
-Projects were made on the Yandex.Praktikum online simulator. [Anaconda Installation](https://www.anaconda.com/distribution/) is necessary for using on a local machine. Each project is presented in three versions: Jupyter Notebook, webpage and pdf-file. Every project folder also has readme file.
+Projects were made on the Yandex.Praktikum online simulator. [Anaconda Installation](https://www.anaconda.com/distribution/) is necessary for using on a local machine. Each project is presented in three versions: Jupyter Notebook, webpage and pdf-file.
 
 ## Support<a class="anchor" id="#chapter7"></a>
 
